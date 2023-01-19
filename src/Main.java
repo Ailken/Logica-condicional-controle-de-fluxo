@@ -41,6 +41,6 @@ public class Main {
         boolean recebeAuxilio = (salarioBaixo) && (muitosDependentes);
         System.out.println("recebeAuxilio " + recebeAuxilio);
 
-
     }
 }
+

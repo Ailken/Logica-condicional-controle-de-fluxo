@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ceec436-feb0-48b2-83f2-2b3ed39b4fce" name="Changes" comment="push">
-      <change afterPath="$PROJECT_DIR$/src/controleDeFluxo.java" afterDir="false" />
+    <list default="true" id="8ceec436-feb0-48b2-83f2-2b3ed39b4fce" name="Changes" comment="push controleDeFluxo">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loopexercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loopexercicio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loopexercicio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loopexercicio4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controleDeFluxo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controleDeFluxo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,13 +52,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.controleDeFluxo">
+}]]></component>
+  <component name="RunManager" selected="Application.loopexercicio4">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Logica condicional e controle de fluxo" />
@@ -60,8 +67,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="controleDeFluxo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="controleDeFluxo" />
+    <configuration name="loopexercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loopexercicio1" />
+      <module name="Logica condicional e controle de fluxo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="loopexercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loopexercicio2" />
+      <module name="Logica condicional e controle de fluxo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="loopexercicio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loopexercicio3" />
+      <module name="Logica condicional e controle de fluxo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="loopexercicio4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loopexercicio4" />
       <module name="Logica condicional e controle de fluxo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -69,7 +97,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.controleDeFluxo" />
+        <item itemvalue="Application.loopexercicio4" />
+        <item itemvalue="Application.loopexercicio3" />
+        <item itemvalue="Application.loopexercicio2" />
+        <item itemvalue="Application.loopexercicio1" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -104,12 +135,20 @@
       <option name="project" value="LOCAL" />
       <updated>1673966567431</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="push controleDeFluxo">
+      <created>1674072309119</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674072309119</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="push logica condicional e controle de fluxo" />
     <MESSAGE value="push" />
-    <option name="LAST_COMMIT_MESSAGE" value="push" />
+    <MESSAGE value="push controleDeFluxo" />
+    <option name="LAST_COMMIT_MESSAGE" value="push controleDeFluxo" />
   </component>
 </project>
