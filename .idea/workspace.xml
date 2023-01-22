@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ceec436-feb0-48b2-83f2-2b3ed39b4fce" name="Changes" comment="push estrutura de repetição 2">
-      <change afterPath="$PROJECT_DIR$/src/ex2_consoantes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicio7Arrays.java" afterDir="false" />
+    <list default="true" id="8ceec436-feb0-48b2-83f2-2b3ed39b4fce" name="Changes" comment="push estrutura de repetição Arrays aula 1 e 2">
+      <change afterPath="$PROJECT_DIR$/src/arraysnumerosaleatorios.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +53,14 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ex2_consoantes">
+  <component name="RunManager" selected="Application.arraysnumerosaleatorios">
+    <configuration name="arraysnumerosaleatorios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arraysnumerosaleatorios" />
+      <module name="Logica condicional e controle de fluxo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ex2_consoantes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex2_consoantes" />
       <module name="Logica condicional e controle de fluxo" />
@@ -64,13 +70,6 @@
     </configuration>
     <configuration name="exercicio7Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercicio7Arrays" />
-      <module name="Logica condicional e controle de fluxo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="loopexercicio4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loopexercicio4" />
       <module name="Logica condicional e controle de fluxo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.arraysnumerosaleatorios" />
         <item itemvalue="Application.ex2_consoantes" />
         <item itemvalue="Application.exercicio7Arrays" />
         <item itemvalue="Application.loopexercicio6" />
         <item itemvalue="Application.loopexercicio5" />
-        <item itemvalue="Application.loopexercicio4" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674245982573</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="push estrutura de repetição Arrays aula 1 e 2">
+      <created>1674357875703</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674357875703</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -160,6 +166,7 @@
     <MESSAGE value="push controleDeFluxo" />
     <MESSAGE value="push estruturas de repetição 1" />
     <MESSAGE value="push estrutura de repetição 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="push estrutura de repetição 2" />
+    <MESSAGE value="push estrutura de repetição Arrays aula 1 e 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="push estrutura de repetição Arrays aula 1 e 2" />
   </component>
 </project>
